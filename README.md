@@ -8,7 +8,7 @@ I'm an aspiring cybersecurity analyst and cloud enthusiast with a diploma in Inf
 
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [whitehatwarrior21@gmail.com](mailto:whitehatwarrior21@gmail.com)
-* 🧠  I'm learning Java
+* 🧠  I'm learning Java and AWS cloud
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am Kamen Rider Skull. Now, Counting Up Your Sins
 
