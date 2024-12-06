@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Cybersecurity Analyst
 ------------------------------
 
-I'm an aspiring cybersecurity analyst currently finishing my diploma in Infocomm and Digital Media at Singapore Polytechnic. I have a keen interest in protecting digital spaces and data, and I'm passionate about learning and growing in the field of cybersecurity.
+I'm an aspiring cybersecurity analyst and cloud enthusiast with a diploma in Infocomm and Digital Media, specializing in cybersecurity, from Singapore Polytechnic. With hands-on experience in digital forensics, ethical hacking, and secure coding, I am passionate about safeguarding digital assets and leveraging cloud technologies to build secure, scalable systems. Currently learning AWS Cloud, I am committed to expanding my expertise and contributing effectively to the evolving landscape of cybersecurity and cloud solutions.
 
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [whitehatwarrior21@gmail.com](mailto:whitehatwarrior21@gmail.com)
